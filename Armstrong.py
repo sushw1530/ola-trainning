@@ -12,5 +12,7 @@ def check_as(n):
         print(n," is an Armstrong")
     else:
         print(n," is not an Armstrong")
+        
+    #
 
     
