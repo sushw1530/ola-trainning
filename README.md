@@ -4,3 +4,5 @@
 **Learning Git**
 
 *Sushant Wagh*
+
+>Rishu Mittal
